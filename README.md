@@ -1,4 +1,5 @@
 # Fooocus-Image-Preview-Plus
+[**English**](./README.md) | [**中文**](./README_CN.md)
 
 This is a Tampermonkey script designed to enhance the image viewing experience on web pages. It provides additional functionalities and improvements for a smoother and more intuitive image preview experience.
 ![gif](https://github.com/Candy3333/Fooocus-Image-Preview-Plus/blob/main/assets/Preview.gif)
