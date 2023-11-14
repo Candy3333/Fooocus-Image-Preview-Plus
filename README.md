@@ -17,7 +17,7 @@ This is a Tampermonkey script designed to enhance the image viewing experience o
 
 ## Installation
 
-1. Use Google Chrome. It allows Tampermonkey access to the log and image files - I haven't been able to get this to work in Firefox and I've not tried others. If anyone else would like to test and report on other browsers then you are encouraged to do so!
+1. Use Google Chrome. I've not tried others. If anyone else would like to test and report on other browsers then you are encouraged to do so!
 2. Install the [Tampermonkey browser extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-GB)
 3. Enable the `"Allow access to file URL's"` setting in the chrome extension settings for tampermonkey.
 4. Click the Tampermonkey extension -> Dashboard -> Utilities
