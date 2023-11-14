@@ -18,7 +18,7 @@
 
 ## 安装
 
-1. 使用Google Chrome。它允许Tampermonkey访问日志和图像文件 - 我无法在Firefox中使它工作，并且没有尝试其他浏览器。如果其他人愿意在其他浏览器上测试并报告，我们鼓励您这样做！
+1. 使用Google Chrome，并且没有尝试其他浏览器。如果其他人愿意在其他浏览器上测试并报告，我们鼓励您这样做！
 2. 安装[Tampermonkey浏览器扩展](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-GB)
 3. 在chrome扩展设置中启用`"允许访问文件URL"`设置。
 4. 点击Tampermonkey扩展 -> 仪表板 -> 工具
