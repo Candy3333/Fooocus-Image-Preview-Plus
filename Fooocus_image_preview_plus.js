@@ -6,6 +6,8 @@
 // @match        http://127.0.0.1:7860/*
 // @match        http://127.0.0.1:7861/*
 // @author       Candy3333(糖果)
+// @downloadURL https://raw.githubusercontent.com/Candy3333/Fooocus-Image-Preview-Plus/main/Fooocus_image_preview_plus.js
+// @updateURL   https://raw.githubusercontent.com/Candy3333/Fooocus-Image-Preview-Plus/main/Fooocus_image_preview_plus.js
 // ==/UserScript==
 
 (function() {
