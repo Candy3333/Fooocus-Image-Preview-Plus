@@ -5,12 +5,14 @@ This is a Tampermonkey script designed to enhance the image viewing experience o
 
 ## Features
 
-- **Enhanced Image Preview**: Automatically enhances the quality and size of image previews for better visibility.
-- **Customizable Settings**: Allows users to customize various aspects of image preview such as size, border, and zoom level.
-- **Easy Navigation**: Offers convenient navigation options for viewing multiple images in a gallery or on a web page.
-- **Compatibility**: Works seamlessly across various websites, ensuring a consistent experience.
-- **User-Friendly Interface**: Designed with a simple and intuitive interface for ease of use.
-- **Performance Optimizations**: Ensures minimal impact on browser performance while delivering an improved viewing experience.
+- Press the spacebar to enter the full-screen magnification mode for images.
+- Clicking the middle mouse button on any image will switch to magnification mode. Click the middle button again to exit magnification mode.
+- In magnification mode, use the left and right arrow keys to browse through images.
+- In this mode, scroll the mouse wheel to zoom in and out of the image.
+- Also in magnification mode, hold down the left mouse button and drag to move the image and view specific details.
+- Double-clicking the left mouse button resets the image zoom and position.
+- Finally, press the ESC key in magnification mode to exit.
+
 
 ## Installation
 
